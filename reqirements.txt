@@ -1,0 +1,6 @@
+matplotlib
+notebook
+nltk
+pandas
+svgling
+tqdm
